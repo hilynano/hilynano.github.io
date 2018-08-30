@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-Research assistant, Department of Life Science, National Taiwan University
+* Research assistant, Department of Life Science, National Taiwan University
 Laboratory of Dr. Chau-Ti Ting, 
 August 2012 – July 2014
 
-Compulsory Military Service
+* Compulsory Military Service
 Second Lieutenant
 Chemical, Biological, Radiological, and Nuclear Defense Specialist
 August 2011 – July 2012
