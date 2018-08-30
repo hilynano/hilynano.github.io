@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Department of Life Science, National Taiwan University, 2009
+* M.S. in Institute of Ecology and Evolutionary Biology, National Taiwan University, 2011
+* Ph.D in Ecology and Evolutionary Biology Program, University of Rochester, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research assistant, Department of Life Science, National Taiwan University
+Laboratory of Dr. Chau-Ti Ting, 
+August 2012 – July 2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Compulsory Military Service
+Second Lieutenant
+Chemical, Biological, Radiological, and Nuclear Defense Specialist
+August 2011 – July 2012
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Angry
+* Become more angry
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Angry about everything
 
 Publications
 ======
