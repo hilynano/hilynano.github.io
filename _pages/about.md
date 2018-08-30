@@ -9,6 +9,8 @@ redirect_from:
 
 Ching-Ho Chang, PhD candidate
 
+<img src="/images/profile.jpg" height="180px"> </img>
+
 
 University of Rochester, USA
 
