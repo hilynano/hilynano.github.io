@@ -6,12 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    	<img src="profile.jpg" >
+
 
 
 Ching-Ho Chang, PhD candidate
