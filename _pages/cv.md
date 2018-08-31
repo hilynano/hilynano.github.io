@@ -46,7 +46,11 @@ Skills
   * work with anger
   * run with anger
   * eat with anger
+  
+ 
 <!--
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -64,4 +68,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 -->
