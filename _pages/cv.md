@@ -17,14 +17,10 @@ Education
 
 Work experience
 ======
-* Research assistant, Department of Life Science, National Taiwan University
-Laboratory of Dr. Chau-Ti Ting, 
+* Research assistant, Department of Life Science, National Taiwan University, Laboratory of Dr. Chau-Ti Ting, 
 August 2012 – July 2014
 
-* Compulsory Military Service
-Second Lieutenant
-Chemical, Biological, Radiological, and Nuclear Defense Specialist
-August 2011 – July 2012
+* Compulsory Military Service, Second Lieutenant, Chemical, Biological, Radiological, and Nuclear Defense Specialist, August 2011 – July 2012
   
 Skills
 ======
@@ -32,6 +28,7 @@ Skills
   * Outdated Perl
   * Traditional R (I can work with my 5-year-old Macbook Air but Rstudio can't)
   * Google-based shell scripts
+  * Name variables as pets
 * Defensive driver and writer
   * 0 car accident except hit by an offensive deer from the side
   * Write without style but some creativity
