@@ -28,6 +28,19 @@ August 2011 – July 2012
   
 Skills
 ======
+* Emotional coding and coder
+  * Outdated Perl
+  * Traditional R (I can work with my 5-year-old Macbook Air but Rstudio can't)
+  * Google-based shell scripts
+* Defensive driver and writer
+  * 0 car accident except hit by an offensive deer from the side
+  * Write without style but some creativity
+* Impassionate fly pusher
+  * Usually setup too many crosses
+  * Dissect flies with rock & roll
+  * Virgins!!!
+* Established bench worker
+  * Established as Larracuente lab (3.5 year old)
 * Angry
 * Become more angry
 * Angry about everything
