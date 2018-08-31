@@ -38,6 +38,7 @@ Skills
   * Usually setup too many crosses
   * Dissect flies with rock & roll
   * Virgins!!!
+* Professional negative results and positive hypotheses producer
 * Established bench worker
   * Established as Larracuente lab (3.5 years old)
 * Angry
