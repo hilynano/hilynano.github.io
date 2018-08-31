@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](/files/cv.pdf)
+
 Education
 ======
 * B.S. Department of Life Science, National Taiwan University, 2009
