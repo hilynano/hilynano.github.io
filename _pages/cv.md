@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Department of Life Science, National Taiwan University, 2009
+* B.S. in Department of Life Science, National Taiwan University, 2009
 * M.S. in Institute of Ecology and Evolutionary Biology, National Taiwan University, 2011
 * Ph.D in Ecology and Evolutionary Biology Program, University of Rochester, 2019 (expected)
 
