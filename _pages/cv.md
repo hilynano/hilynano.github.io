@@ -30,7 +30,7 @@ Skills
   * Google-based shell scripts
   * Name variables as pets
 * Defensive driver and writer
-  * 0 car accident except hit by an offensive deer from the side
+  * 0 car accident except a hit from an offensive deer from the side
   * Write without style but some creativity
 * Impassionate fly pusher
   * Usually setup too many crosses
