@@ -13,15 +13,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Department of Life Science, National Taiwan University, 2009
-* M.S. in Institute of Ecology and Evolutionary Biology, National Taiwan University, 2011
 * Ph.D in Ecology and Evolutionary Biology Program, University of Rochester, 2019 (expected)
+* M.S. in Institute of Ecology and Evolutionary Biology, National Taiwan University, 2011
+* B.S. in Department of Life Science, National Taiwan University, 2009
 
 Work experience
 ======
 * Research assistant, Department of Life Science, National Taiwan University, Laboratory of Dr. Chau-Ti Ting, 
 August 2012 – July 2014
-
 * Compulsory Military Service, Second Lieutenant, Chemical, Biological, Radiological, and Nuclear Defense Specialist, August 2011 – July 2012
   
 Skills
