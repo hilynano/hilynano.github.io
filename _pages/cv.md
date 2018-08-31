@@ -37,7 +37,7 @@ Skills
   * Dissect flies with rock & roll
   * Virgins!!!
 * Established bench worker
-  * Established as Larracuente lab (3.5 year old)
+  * Established as Larracuente lab (3.5 years old)
 * Angry
 * Become more angry
 * Angry about everything
