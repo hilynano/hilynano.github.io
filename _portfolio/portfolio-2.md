@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 2"
-excerpt: "Catterplots is great.  <br/> <img src='/images/test.png' style='width:500px;'/>"
+excerpt: "Catterplots is great.  <br/> <img src='/images/test1.png' style='width:500px;'/>"
 collection: portfolio
 ---
 
