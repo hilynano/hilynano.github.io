@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "Ching-Ho Chang"
   avatar           : "profile.jpg"
-  bio              : 'Ching-Ho Chang \ PhD candidate @ U of Rochester'
+  bio              : | Ching-Ho Chang 
+  PhD candidate @ U of Rochester'
   location         : "Rochester, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OAr23DQAAAAJ&hl"
