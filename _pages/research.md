@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 Genes in a genome do not play as an orchestra. Selfish elements can play by their own rules and spread in genomes and populations, even when they come at a cost to host fitness. This causes intragenomic conflicts between selfish elements and their host genomes. However, it is difficult to fully assemble these elements with traditional sequencing methods (e.g. Sanger and Illumina sequencing), limiting our understanding of their biology. My research integrates modern genomic analyses (long-read sequencing, ChIP-seq and GWAS) with classic approaches (polytene squashes and FISH) to study how intragenomic conflicts shape genome evolution.
