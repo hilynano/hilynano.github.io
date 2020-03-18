@@ -86,7 +86,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OAr23DQAAAAJ&hl"
   email            : "cchang45@ur.rochester.edu"
-  uri              : "https://hilynano.github.io/Index.html"
+  uri              : #"https://hilynano.github.io/Index.html"
   bitbucket        :
   codepen          :
   dribbble         :
