@@ -40,13 +40,13 @@ redirect_from:
 ---
 ### Research Focus
 
-My research explores how **genetic conflicts**—such as meiotic drive and sex chromosome antagonism—propel rapid evolutionary changes in chromatin-associated proteins. Utilizing *Drosophila* as a model system, I investigate: [oai_citation_attribution:4‡sinica.edu.tw](https://www.sinica.edu.tw/en/Calendar_Content/57/3716?utm_source=chatgpt.com)
+My research explores how **genetic conflicts**—such as meiotic drive and sex chromosome antagonism—propel rapid evolutionary changes in chromatin-associated proteins. Utilizing *Drosophila* as a model system, I investigate: 
 
 - **Segregation Distorter (SD) System**: An autosomal meiotic drive complex that biases transmission by incapacitating competing sperm.
 
 - **Y Chromosome Dynamics**: Examining how sex chromosome conflicts lead to structural rearrangements and influence genome evolution.
 
-- **Protamines**: Studying the rapid evolution of sperm-specific chromatin proteins and their role in fertility and genomic integrity.  [oai_citation_attribution:5‡ResearchGate](https://www.researchgate.net/scientific-contributions/Ching-Ho-Chang-2130472119?utm_source=chatgpt.com)
+- **Protamines**: Studying the rapid evolution of sperm-specific chromatin proteins and their role in fertility and genomic integrity.  
 
 ---
 ### Methodologies and Expertise
