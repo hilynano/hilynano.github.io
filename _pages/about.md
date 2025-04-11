@@ -10,26 +10,45 @@ redirect_from:
 ![Ching-Ho Chang profile picture](/images/profile.jpg){:width="150px"}
 ## Ching-Ho Chang, PhD
 
-**Current & Past Positions:**
+### Current & Upcoming Roles
 
-* **Postdoctoral Researcher:** Malik Lab @ Fred Hutch (2020 - Present)
-* **PhD Student:** Larracuente Lab @ University of Rochester (2014 - 2020)
+- **Postdoctoral Fellow**  
+  *Fred Hutchinson Cancer Center* (2020 – Present)
+  Advisor: Dr. Harmit Malik    
+  Studying the evolution of sperm chromatin and mechanisms ensuring fair gamete transmission. 
 
-**Upcoming:**
+- **Incoming Principal Investigator**  
+  *Institute of Molecular Biology (IMB), Academia Sinica, Taiwan* (Starting 2025)  
+  Establishing a research program focused on genetic conflicts and chromatin evolution. 
 
-* **Principal Investigator:** Institute of Molecular Biology (IMB), Academia Sinica (Starting 2025)
+### Education
+
+- **Ph.D. in Biology**  
+  *University of Rochester* (2014 – 2020)  
+  Advisor: Dr. Amanda Larracuente  
+  Thesis: *Meiotic Drive and Rapid Genome Evolution in Drosophila*
 
 ---
+### Honors & Fellowships
 
-### Research Overview
+- **Damon Runyon Postdoctoral Fellowship** (2021 – 2025)  
+  Awarded for innovative research on protamine evolution and genetic conflicts in *Drosophila*. 
 
-My research investigates how **intragenomic conflicts** drive chromosome evolution. I focus on two key systems in *Drosophila*:
+- **Larry Sandler Memorial Lecture Award** (2021)  
+  Recognized for significant contributions to the field of evolutionary genetics. 
 
-1.  **Segregation Distorter (SD):** This is an autosomal meiotic drive gene complex that unfairly biases its own transmission by killing sperm that don't carry it. SD chromosomes often acquire unique inversions to keep the gene complex together, though these can differ between populations.
-2.  **Y Chromosomes:** These sex chromosomes experience intense evolutionary pressures due to conflicts between sexes and sex-specific selection. They are often hotspots for rearrangements and can act as selfish genetic elements or be targets of them.
+---
+### Research Focus
 
-My goal is to understand the **structural changes** occurring on SD and Y chromosomes and their evolutionary consequences.
+My research explores how **genetic conflicts**—such as meiotic drive and sex chromosome antagonism—propel rapid evolutionary changes in chromatin-associated proteins. Utilizing *Drosophila* as a model system, I investigate: [oai_citation_attribution:4‡sinica.edu.tw](https://www.sinica.edu.tw/en/Calendar_Content/57/3716?utm_source=chatgpt.com)
 
+- **Segregation Distorter (SD) System**: An autosomal meiotic drive complex that biases transmission by incapacitating competing sperm.
+
+- **Y Chromosome Dynamics**: Examining how sex chromosome conflicts lead to structural rearrangements and influence genome evolution.
+
+- **Protamines**: Studying the rapid evolution of sperm-specific chromatin proteins and their role in fertility and genomic integrity.  [oai_citation_attribution:5‡ResearchGate](https://www.researchgate.net/scientific-contributions/Ching-Ho-Chang-2130472119?utm_source=chatgpt.com)
+
+---
 ### Methodologies and Expertise
 
 I utilize a multi-faceted approach combining modern genomics with classical techniques:
@@ -45,3 +64,29 @@ I utilize a multi-faceted approach combining modern genomics with classical tech
 * **Classical *Drosophila* Genetics:** Leveraging the powerful genetic toolkit available in fruit flies.
 
 I am proficient in these methods and passionate about unraveling the fascinating interplay between genetic conflict and genome evolution.
+
+---
+
+### Selected Publications
+
+- **Chang, C.-H.**, et al. (2023). *Diversification and recurrent adaptation of the synaptonemal complex in Drosophila*. *eLife*. 
+
+- **Chang, C.-H.**, et al. (2022). *Expansion and loss of sperm nuclear basic protein genes in Drosophila correspond with genetic conflicts between sex chromosomes*. *eLife*. 
+
+- **Chang, C.-H.**, et al. (2019). *Islands of retroelements are major components of Drosophila centromeres*. *PLoS Biology*, 17(5), e3000241. 
+
+*For a comprehensive list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=OAr23DQAAAAJ).*
+
+---
+
+### Connect with Me
+
+- **Email**: [hilynano@gmail.com](mailto:hilynano@gmail.com)
+- **Website**: [hilynano.github.io](https://hilynano.github.io/)
+- **GitHub**: [hilynano](https://github.com/hilynano)
+- **ORCID**: [0000-0001-9361-1190](https://orcid.org/0000-0001-9361-1190)
+- **Google Scholar**: [Ching-Ho Chang](https://scholar.google.com/citations?user=OAr23DQAAAAJ)
+
+---
+
+*Last updated: April 2025*
